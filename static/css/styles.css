@@ -1,0 +1,9 @@
+.jumbotron {
+  background-color: #f8f9fa;
+  padding: 3rem;
+  border-radius: 0.3rem;
+}
+
+.card {
+  margin-bottom: 1.5rem;
+}
